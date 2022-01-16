@@ -1,6 +1,6 @@
 #!/bin/sh
 #description :This script will allow to upload files to a nextcloud server via webdav.
-#author		 :rafe85
+#author		 :rafe95
 
 printf 'Username: '
 read -r username
